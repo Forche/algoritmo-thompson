@@ -2,7 +2,7 @@
 
 Implementacion  del algoritmo de thompson utilizando matriz.
 
-RegEx: [0-9]+F|[0-9]\.[01]{2}  
+RegEx: [0-9]+F|[0-9]\\.[01]{2}  
 Centinela:#
 
 ### Ejemplos de palabras aceptadas:  
